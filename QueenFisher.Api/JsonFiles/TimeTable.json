@@ -1,0 +1,37 @@
+[
+  {
+    "Id": "4ca1331d-6d13-0ea1-fc79-9b24f374a9e7",
+    "MealType": "Lunch",
+    "StartDate": "2023-02-11T16:59:40.8188725+01:00",
+    "EndDate": "0001-01-01T00:00:00",
+    "AppUserId": "be004946-a4ac-56c6-b51f-cc3d6b5f51f3"
+  },
+  {
+    "Id": "5831141e-75ef-8bd7-c15a-cb7ae6553c4b",
+    "MealType": "Breakfast",
+    "StartDate": "2023-02-11T16:59:40.8329932+01:00",
+    "EndDate": "0001-01-01T00:00:00",
+    "AppUserId": "ed4e7669-47c2-8e8d-cd5a-015d6109d7c5"
+  },
+  {
+    "Id": "70909811-b1cf-5112-f576-2cc02c4b28b3",
+    "MealType": "Dinner",
+    "StartDate": "2023-02-11T16:59:40.8330364+01:00",
+    "EndDate": "0001-01-01T00:00:00",
+    "AppUserId": "84652356-e724-f174-f5fa-321126586fdc"
+  },
+  {
+    "Id": "d8ea155c-1009-fcea-29cb-924d044366c7",
+    "MealType": "Dinner",
+    "StartDate": "2023-02-11T16:59:40.8330378+01:00",
+    "EndDate": "0001-01-01T00:00:00",
+    "AppUserId": "f487153f-6700-2e4c-8829-dc4808cb9d29"
+  },
+  {
+    "Id": "e909f24f-8a50-b413-007c-28cb06118e1c",
+    "MealType": "Dinner",
+    "StartDate": "2023-02-11T16:59:40.8330385+01:00",
+    "EndDate": "0001-01-01T00:00:00",
+    "AppUserId": "68865562-f2e9-3538-0e2c-9e4f06dbf03a"
+  }
+]
